@@ -32,7 +32,7 @@ function Project() {
                     </div>
                 ))}
             </div>
-         <div className="load-more-container mt-10">
+         <div className="load-more-container">
         <Link to="/My-Portfolio-V2/projects" className="load-more-button">
         Load More
         </Link>

@@ -6,7 +6,7 @@ import travel_camp from "../assets/images/project_photos/TravelCamp.png"
 export const projects = [
     {
         title: "Anomaly Detection System",
-        description: "Anomaly Detection System to detect corruption cases in Shamsi Hospital located in Pakistan where data was collected from different departments of inpatient and outpatients was streamed to find anomalies related to management.",
+        description: "Anomaly Detection System for identifying corruption cases at Shamsi Hospital, Pakistan, using data streams from inpatient and outpatient departments to detect management-related anomalies.",
         image: anomaly_detection,
         skills: ["ML", "Python", "Jupyter Notebook", "NodeJS", "SQL","Express","Vercel"],
         github: "https://github.com/MaryamRaheemKhan/AnomXplorer",
