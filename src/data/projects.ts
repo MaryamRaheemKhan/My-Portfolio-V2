@@ -16,7 +16,7 @@ export const projects = [
         title: "Tourist Automated Guide",
         description: "Built a Next.js tourist guide platform using RAG with OpenCV, LangChain, and Supabase, enabling clients to explore Germany through automated query handling and retrieval of the most relevant tourist data.",
         image: travel_camp,
-        skills: ["Next.js","OpenCV","Langchain","Superbase","RAG"],
+        skills:   ["Next.js","OpenCV","Langchain","Superbase","RAG"],
         github: "https://github.com/MaryamRaheemKhan/AnomXplorer",
     },
         {

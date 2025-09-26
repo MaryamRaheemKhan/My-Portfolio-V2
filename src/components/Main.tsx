@@ -15,7 +15,7 @@ function Main() {
             <a href="https://github.com/MaryamRaheemKhan" target="_blank" rel="noreferrer"><FaGithub/></a>
             <a href="https://www.linkedin.com/in/maryam-raheem-5821a4218/" target="_blank" rel="noreferrer"><FaLinkedin/></a>
             
-            <a href={require('../assets/resume/MaryamRaheem_WorkingStudent.pdf')} download="MaryamRaheem_CV_Software_Engineer">
+            <a href={require('../assets/resume/Maryam_Software_Engineer.pdf')} download="MaryamRaheem_CV_Software_Engineer">
               <FaFilePdf/> CV
             </a>
 
@@ -26,7 +26,7 @@ function Main() {
           <div className="mobile_social_icons">
             <a href="https://github.com/MaryamRaheemKhan" target="_blank" rel="noreferrer"><FaGithub/></a>
             <a href="https://www.linkedin.com/in/maryam-raheem-5821a4218/" target="_blank" rel="noreferrer"><FaLinkedin/></a>
-            <a href={require('../assets/resume/MaryamRaheem_WorkingStudent.pdf')} download="MaryamRaheem_CV_Software_Engineer">
+            <a href={require('../assets/resume/Maryam_Software_Engineer.pdf')} download="MaryamRaheem_CV_Software_Engineer">
               <FaFilePdf/> CV
             </a>
           </div>
