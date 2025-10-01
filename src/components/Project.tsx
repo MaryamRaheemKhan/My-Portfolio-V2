@@ -32,7 +32,7 @@ function Project() {
                     </div>
                 ))}
             </div>
-       <div className="flex load-more-container" style={{ marginTop: '50px' }}>
+       <div className="flex load-more-container" style={{ marginTop: '80px' }}>
   <Link to="/My-Portfolio-V2/projects" className="load-more-button">
     Load More
   </Link>
