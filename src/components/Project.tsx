@@ -23,22 +23,21 @@ function Project() {
                                     <FaGithub size={20} />
                                 </a>
                             )}
-                            {project.website && (
+                            {/* {project.website && (
                                 <a href={project.website} target="_blank" rel="noreferrer" className="project-link">
                                     <FaExternalLinkAlt size={20} />
                                 </a>
-                            )}
+                            )} */}
                         </div>
                     </div>
                 ))}
             </div>
-         <div className="load-more-container">
-        <Link to="/My-Portfolio-V2/projects" className="load-more-button">
-        Load More
-        </Link>
+       <div className="flex load-more-container" style={{ marginTop: '50px' }}>
+  <Link to="/My-Portfolio-V2/projects" className="load-more-button">
+    Load More
+  </Link>
 </div>
-
-        </div>
+</div>
     );
 }
 

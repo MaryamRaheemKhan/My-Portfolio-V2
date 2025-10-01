@@ -38,17 +38,17 @@ function ProjectPage() {
                 <h2>{project.title}</h2>
                 <p>{project.description}</p>
               </div>
-              <div className="project-links">
+              <div className="project-links mt-20">
                 {project.github && (
                   <a href={project.github} target="_blank" rel="noreferrer" className="project-link">
                     <FaGithub size={20} />
                   </a>
                 )}
-                {project.website && (
+                {/* {project.website && (
                   <a href={project.website} target="_blank" rel="noreferrer" className="project-link">
                     <FaExternalLinkAlt size={20} />
                   </a>
-                )}
+                )} */}
               </div>
             </div>
           ))}
