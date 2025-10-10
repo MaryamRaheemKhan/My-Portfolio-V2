@@ -16,14 +16,14 @@ function Career() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="Nov 2024 - April 2025"
+            date="Jan 2025 - Aug 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">Unikrew Solutions</h4>
             <p>
-              ReactJS,NextJS,Flask,LLMS,OpenCV,Face Detection,REST API,SQL,Docker
+              ReactJS, NextJS, Flutter, Flask, LLMS, OpenCV, Face Detection, REST API, SQL, MongoDB, Docker
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -37,7 +37,7 @@ function Career() {
             <h3 className="vertical-timeline-element-title">Software Engineer-Trainee</h3>
             <h4 className="vertical-timeline-element-subtitle">QBS Co</h4>
             <p>
-              Full-stack Web Development, Database,Chat Application, Web Sockeet IO, Caching, DevOps
+              Full-stack Web Development, Nodejs, SQL, Angular, Nextjs, WebSocket, Database, Chat Application, Web Sockeet IO, Caching, DevOps
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -49,7 +49,7 @@ function Career() {
             <h3 className="vertical-timeline-element-title">Software Engineer-Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Blutech Consulting</h4>
             <p>
-             ReactJS,Apache,SQL,ETL pieplines,NodeJS
+             ReactJS, NextJS, Apache Spark, SQL, ETL pieplines, NodeJS ,Express , REST API
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -67,7 +67,7 @@ function Career() {
         </VerticalTimeline>
       </div>
     </div>
-  );
+  )
 }
 
 export default Career;
